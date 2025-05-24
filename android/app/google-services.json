@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437914876307",
+    "project_id": "meme-project2-365d8",
+    "storage_bucket": "meme-project2-365d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437914876307:android:0cca7e8ae80b33bc8fd066",
+        "android_client_info": {
+          "package_name": "com.example.smart_yoga_mat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK_HeXvbrZ6ssYWz1VKupGdkFd6ZnUZrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
