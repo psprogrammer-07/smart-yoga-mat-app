@@ -1,0 +1,1 @@
+# smart-yoga-mat-app
