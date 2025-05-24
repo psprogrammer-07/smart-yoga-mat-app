@@ -1,20 +1,18 @@
-<<<<<<< HEAD
-# smart_yoga_mat
+📱 Smart Yoga Mat – Flutter App
+The Smart Yoga Mat app is a mobile application prototype built using Flutter to simulate the functionality of an IoT-powered yoga mat. It helps users engage in yoga sessions with visual feedback, simulated pressure detection, OTA update features, and more — even without connecting to real hardware.
 
-A new Flutter project.
+Key Features:
 
-## Getting Started
+🎮 Mat Control Panel: Choose between modes like Start Warm-Up or Begin Relaxation with real-time feedback.
 
-This project is a starting point for a Flutter application.
+🧘 Stick Figure Visualization: A live animated stick figure shows user posture based on pressure data.
 
-A few resources to get you started if this is your first Flutter project:
+🛠 Simulated Pressure Zones: Different mat zones react to mock pressure values to reflect movement.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🚀 OTA Updates: Users can check for firmware updates, see version info, and simulate update installation.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# smart-yoga-mat-app
->>>>>>> c9ada4c86270c2f9f84299a69fc4c020e88e287d
+🛍 Product Showcase: A scrollable section to highlight new yoga mat products and features with links.
+
+📡 Simulated Connectivity: Mimics Bluetooth/Wi-Fi connection status for testing user experience flow.
+
+This app creatively brings a smart yoga mat experience to life using custom visual components and simulated data, laying the groundwork for real device integration in the future.
