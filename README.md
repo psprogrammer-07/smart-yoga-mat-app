@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # smart_yoga_mat
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# smart-yoga-mat-app
+>>>>>>> c9ada4c86270c2f9f84299a69fc4c020e88e287d
